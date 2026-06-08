@@ -1,0 +1,6 @@
+2026-06-08 12:52:36,589 - INFO - Order Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-06-08 12:52:38,788 - ERROR - APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-06-08 12:59:59,998 - INFO - Order Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-06-08 13:00:03,395 - ERROR - APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-06-08 13:16:18,019 - INFO - Order Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-06-08 13:16:18,487 - INFO - Order Response: {'symbol': 'BTCUSDT', 'orderId': 1880781, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJf900fd8dc4d779c792a759', 'transactTime': 1780904780717, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '62.24218000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'BUY', 'workingTime': 1780904780717, 'fills': [{'price': '62242.18000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'BTC', 'tradeId': 541537}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
